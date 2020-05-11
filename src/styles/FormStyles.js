@@ -17,7 +17,7 @@ const styles = (theme) => ({
         alignItems: "center",
         padding: `${theme.spacing.unit * 2}px ${theme.spacing.unit * 3}px ${
             theme.spacing.unit * 3
-        }px `,
+        }px`,
     },
     avatar: {
         margin: theme.spacing.unit,

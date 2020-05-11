@@ -41,7 +41,7 @@ const styles = (theme) => ({
     },
     inputRoot: {
         color: "inherit",
-        wifth: "100%",
+        width: "100%",
     },
     inputInput: {
         paddingTop: theme.spacing.unit,
